@@ -11,7 +11,7 @@
 }
 
 .navbar-brand{
-    font-family:cursive;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .header{
     padding-top: 75px;
@@ -88,6 +88,6 @@
     background-color: rgba(202, 245, 95, 255);
     color: white;
     text-align: left;
-    font-family:cursive;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
   
