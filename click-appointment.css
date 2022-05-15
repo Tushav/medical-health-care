@@ -1,0 +1,58 @@
+:root {
+    --color-white: #f3f3f3;
+    --color-darkblue: #1b1b32;
+    --color-darkblue-alpha: rgba(27, 27, 50, 0.8);
+    --color-green: #37af65;
+}
+
+body {
+    font-family: sans-serif;
+    font-size: 1rem;
+    line-height: 1.4;
+    margin: 0;
+    font-weight: 400;
+    color: var(--color-white);
+    padding: 0;
+    background-color: var(--color-darkblue-alpha);
+}
+
+body::before {
+    content: '';
+    background-image: linear-gradient(115deg, rgba(31, 31, 114, 0.8), rgba(128, 128, 128, 0.7)), url(Images/appointment\ booking.jpg);
+    position: fixed;
+    top: 0;
+    z-index: -1;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+header {
+    text-align: center;
+    margin: 30px 0px;
+}
+
+.container {
+    max-width: 800px;
+}
+
+#appointment-form {
+    background-color: var(--color-darkblue);
+    padding: 30px;
+    opacity: 0.9;
+    border-radius: 5px;
+}
+
+.footer {
+    position:relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(202, 245, 95, 255);
+    color: white;
+    text-align: left;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
