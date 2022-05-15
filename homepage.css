@@ -37,7 +37,7 @@
 }
 .why{
     margin-bottom: 400px;
-    margin-right: 500px;
+    margin-right: 525px;
 }
 #medi{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -45,9 +45,9 @@
     font-weight: bolder;
 }
 #para2{
-    color:darkblue;
-    font-weight: bold;
-    font-family: cursive;
+    color:darkslategray;
+    font-weight:normal;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .second{
     height: 650px;
@@ -63,12 +63,17 @@
 #para1{
     font-size: large;
     font-weight: bolder;
-    color:darkblue;
-    font-family: cursive;
+    color:darkslategray;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .third{
     height: 650px;
+}
+.service{
+    width: 200px;
+    margin-bottom: 300px;
+    margin-right: 900px;
 }
 .foot{
     left: 0;
@@ -77,7 +82,7 @@
     background-color: lightgrey;
     color: white;
     text-align: center;
-    font-family:cursive;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .footer {
