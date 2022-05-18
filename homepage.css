@@ -16,7 +16,7 @@
 .header{
     padding-top: 75px;
     margin-left: 30px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: burlywood;
     border-style: solid;
     width: min-content;
@@ -40,7 +40,7 @@
     margin-right: 525px;
 }
 #medi{
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: orange;
     font-weight: bolder;
 }
@@ -57,7 +57,7 @@
     margin-right: 500px;
 }
 .doctor{
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: orange;
 }
 #para1{
